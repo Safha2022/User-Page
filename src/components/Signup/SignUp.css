@@ -1,13 +1,3 @@
-body{
-	margin: 0;
-	padding: 0;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
-	font-family: 'Jost', sans-serif;
-	background: linear-gradient(to bottom, #b9ad99, #b3956c, #c7c0b1);
-}
 .main{
 	width: 350px;
 	height: 500px;

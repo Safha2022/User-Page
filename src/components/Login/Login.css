@@ -1,4 +1,4 @@
-body{
+/* body{
 	margin: 0;
 	padding: 0;
 	display: flex;
@@ -7,7 +7,7 @@ body{
 	min-height: 100vh;
 	font-family: 'Jost', sans-serif;
 	background: linear-gradient(to bottom, #b9ad99, #b3956c, #c7c0b1);
-}
+} */
 .main{
 	width: 350px;
 	height: 500px;
@@ -37,7 +37,7 @@ label{
 }
 input{
 	width: 60%;
-	height: 20px;
+	height: 17px;
 	background: #e0dede;
 	justify-content: center;
 	display: flex;
