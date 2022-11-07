@@ -1,5 +1,5 @@
-.hero{
-    top: 5vh;
+#hero-img{
+    width: 500px;
     background-color: #5cbdbd;
     background-image: url('//cdn.shopify.com/s/files/1/1288/2297/files/slider__bg4.jpg?v=1644396699');
 }
