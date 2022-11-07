@@ -7,19 +7,19 @@ const Navbar = () => {
             text: 'Home'
         },
         {
-            to: '/',
+            to: '/books',
             text: 'Books'
         },
         {
-            to: '/',
+            to: '/categories',
             text: 'Categories'
         },
         {
-            to: '/',
+            to: '/reviews',
             text: 'Reviews'
         },
         {
-            to: '/',
+            to: '/signup',
             text: 'Sign UP'
         },
     ]
