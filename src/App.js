@@ -1,10 +1,10 @@
 import { Routes, Route } from 'react-router-dom';
 import Book from './components/Books/Book';
-import Home from './components/Home/Home';
+import Home from './components/home/Home';
 import './App.css';
-import Signup from './components/Signup/SignUp';
-import Reviews from './components/Reviews/Reviews';
-import Categories from './components/Categories/Categories';
+import Signup from './components/signup/SignUp';
+import Reviews from './components/reviews/Reviews';
+import Categories from './components/categories/Categories';
 
 function App() {
   return (

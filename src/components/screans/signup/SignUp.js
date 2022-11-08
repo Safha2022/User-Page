@@ -1,7 +1,7 @@
 import './SignUp.css';
 import {useRef} from 'react'
 import { useNavigate } from 'react-router-dom';
-import Login from "../Login/Login.js"
+import Login from "../screans/login/Login.js"
 
 const SignUp = () => {
     const navigate = useNavigate()
