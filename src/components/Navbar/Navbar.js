@@ -19,6 +19,10 @@ const Navbar = () => {
             text: 'Reviews'
         },
         {
+            to: '/about',
+            text: 'About Us'
+        },
+        {
             to: '/signup',
             text: 'Sign UP'
         },
