@@ -5,7 +5,8 @@ import './App.css';
 import Signup from './components/screans/signup/SignUp';
 import Reviews from './components/reviews/Reviews';
 import Categories from './components/categories/Categories';
-
+import About from './components/about/About';
+import Footer from './components/footer/Footer'
 function App() {
   return (
     <>
@@ -16,6 +17,8 @@ function App() {
         <Route path='/books' element={<Book />} />
         <Route path='/reviews' element={<Reviews />} />
         <Route path='/categories' element={<Categories />} />
+        <Route path='/about' element={<About />} />
+        <Route path='/footer' element={<Footer />} />
       </Routes>
     </>
   );
