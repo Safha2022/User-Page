@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom"
 import  "./Navbar.css"
-import logo from "../../assets/images/icons/Safha-logo.jpeg"
+import logo from "../../assets/images/logo.png"
 const Navbar = () => {
     const links = [
         {
